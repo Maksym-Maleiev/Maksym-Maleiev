@@ -9,4 +9,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=254bdd)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass&logoColor=c66394)
 
-Follow Me
+### Follow Me
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0a63bc)
