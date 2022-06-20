@@ -1,4 +1,4 @@
-[![Header](https://github.com/Maksym-Maleiev/Maksym-Maleiev/blob/main/assets/logo.jpg)](https://itukraine.org.ua/)
+[![Header](https://github.com/Maksym-Maleiev/Maksym-Maleiev/blob/main/assets/logo.webp)](https://itukraine.org.ua/)
 
 ## I'm a beginner Web-developer
 
