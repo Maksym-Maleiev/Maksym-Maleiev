@@ -5,5 +5,7 @@
 ## Languages and Tools
 
 ![GitHub](https://img.shields.io/badge/-GitHub-075cb2?style=for-the-badge&logo=github)
+![HTML](https://img.shields.io/badge/-HTML-075cb2?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-075cb2?style=for-the-badge&logo=css)
 
 Follow Me
