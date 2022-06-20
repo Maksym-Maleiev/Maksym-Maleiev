@@ -4,6 +4,6 @@
 
 ## Languages and Tools
 
-![Flutter](https://img.shields.io/badge/-Flutter-075cb2?style=for-the-badge&logo=flutter)
+![HTML](https://img.shields.io/badge/-HTML-075cb2?style=for-the-badge&logo=html)
 
 Follow Me
