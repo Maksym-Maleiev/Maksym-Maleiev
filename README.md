@@ -2,7 +2,8 @@
 
 ## I'm a beginner Web-developer
 
-Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-#075cb2?style=for-the-badge&logo=appveyor)
+## Languages and Tools
+
+![Flutter](https://img.shields.io/badge/-Flutter-075cb2?style=for-the-badge&logo=flutter)
 
 Follow Me
