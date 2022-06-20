@@ -3,6 +3,6 @@
 ## I'm a beginner Web-developer
 
 Languages and Tools
-![HTML](https://img.shields.io/badge/-JavaScript-#075cb2?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-#075cb2?style=for-the-badge&logo=appveyor)
 
 Follow Me
