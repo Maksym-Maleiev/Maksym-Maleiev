@@ -1,6 +1,6 @@
 [![Header](https://github.com/Maksym-Maleiev/Maksym-Maleiev/blob/main/assets/logo.jpg)](https://prytulafoundation.org/)
 
-## I'm a beginner Web-developer
+## Hi there, I'm Maksym👋
 
 ### Languages and Tools
 
