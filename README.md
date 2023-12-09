@@ -8,6 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=dd4b25)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=254bdd)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass&logoColor=c66394)
+![JS]
 
 ### Follow Me
 
