@@ -13,4 +13,4 @@
 
 ### Follow Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0a63bc)](https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D0%BC%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2-339869242/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D0%BC%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2-339869242/)
